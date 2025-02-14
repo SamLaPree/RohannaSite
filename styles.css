@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: rgb(115, 48, 183);
+
+}
+
+a:hover 
+{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+a
+{
+    color: black
+}
